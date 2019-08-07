@@ -9,9 +9,18 @@ html {
   min-height: 100%;
 }
 
+
 body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
+}
+
+h1 {
+  text-align: center
+}
+
+h2 {
+  text-align: center
 }
 
 #footer {
